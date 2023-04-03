@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "498825641768",
+    "project_id": "metapass-bloktopia",
+    "storage_bucket": "metapass-bloktopia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498825641768:android:ac28bb3d69d2c8b8fe1a1d",
+        "android_client_info": {
+          "package_name": "com.bloktopia.metapass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498825641768-ink7o378im8b0u8d8s5is73tmqhhtn9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDj_tC5dsRXmmZbWckhKxgFPYFuSp2PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498825641768-ink7o378im8b0u8d8s5is73tmqhhtn9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498825641768-rf2fubg7gtit9s1potio78tjifn3nlv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bloktopia.metapass"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498825641768:android:57928fd729850017fe1a1d",
+        "android_client_info": {
+          "package_name": "com.example.pokemon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498825641768-ink7o378im8b0u8d8s5is73tmqhhtn9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDj_tC5dsRXmmZbWckhKxgFPYFuSp2PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498825641768-ink7o378im8b0u8d8s5is73tmqhhtn9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498825641768-rf2fubg7gtit9s1potio78tjifn3nlv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bloktopia.metapass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

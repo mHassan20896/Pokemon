@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>498825641768-thmlictgks7hir06utnrhqnl6sifpaal.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.498825641768-thmlictgks7hir06utnrhqnl6sifpaal</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtm49wkVDJ7eYs9ypdG8qUW6IdgV1sCwc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>498825641768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pokemonApp</string>
+	<key>PROJECT_ID</key>
+	<string>metapass-bloktopia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>metapass-bloktopia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:498825641768:ios:6cebb4294b33aec2fe1a1d</string>
+</dict>
+</plist>
